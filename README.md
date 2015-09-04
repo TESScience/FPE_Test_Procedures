@@ -15,7 +15,7 @@ You can find google documents chronicling the Bring-Up and Functional testing of
          -  [Interface Board v6.1 serial number 03](https://docs.google.com/spreadsheets/d/16yvSoezxYZQGF5rz9ZloTvX9ctHodaWL5blikKrIo9Q/pubhtml)
 
 - iPython Notebooks
-       - [Stub Notebook (while Matt updates the Software)](http://nbviewer.ipython.org/github/TESScience/FPE_Test_Procedures/blob/master/FPE%20Testing%20Notebook.ipynb)
+       - [FPE iPython Tutorial Notebook](http://nbviewer.ipython.org/github/TESScience/FPE_Test_Procedures/blob/master/FPE%20iPython%20Tutorial%20Notebook.ipynb)
 
 - Documentation
     - [ObsSim Software Description v1.5](https://github.com/TESScience/FPE_Test_Procedures/raw/master/Documentation/ObsSimUM1_5.pdf)
