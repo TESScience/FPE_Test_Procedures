@@ -16,3 +16,7 @@ You can find google documents chronicling the Bring-Up and Functional testing of
 
 - iPython Notebooks
        - [Stub Notebook (while Matt updates the Software)](http://nbviewer.ipython.org/github/TESScience/FPE_Test_Procedures/blob/master/FPE%20Testing%20Notebook.ipynb)
+
+- Documentation
+    - [ObsSim Software Description v1.5](https://github.com/TESScience/FPE_Test_Procedures/raw/master/Documentation/ObsSimUM1_5.pdf)
+    - [FPE Specification Document](https://github.com/TESScience/FPE/raw/master/FPE/Documentation/FPE.pdf)
