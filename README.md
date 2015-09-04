@@ -2,7 +2,9 @@
 
 This is a repository for FPE test procedures for TESS, the Transiting Exoplanet Survey Satellite.
 
-You can find google documents chronicling the Bring-Up and Functional testing of the TESS Focal Plane Electronics here:
+You can find google documents chronicling the Bring-Up and Functional testing of the TESS Focal Plane Electronics below.
+
+*Note that these links are live and point to the test documents as I am filling them out, so they may be in intermediate (unfinished) states sometimes.*
 
  - TESS FPE
  	-   [The Interface Board (IB) Bring-Up Procedure (raw)]
