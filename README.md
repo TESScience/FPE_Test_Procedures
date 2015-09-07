@@ -22,3 +22,4 @@ You can find google documents chronicling the Bring-Up and Functional testing of
     - [FPE Specification Document](https://github.com/TESScience/FPE/raw/master/FPE/Documentation/FPE.pdf)
     - [CCD Screening and Test Report Form](https://docs.google.com/spreadsheets/d/1-ysKDKKj_qyiQhHkX8iTwmzbxIl74rTQ9_-PTp3I1qM/pubhtml)
     - [Hardware Activity Log Form](https://docs.google.com/spreadsheets/d/1F13pmJN5lLdmYBxVNSkqcVn-lQWhI8_q9wMNZl-ucBo/pubhtml)
+    - [PCB Inventory Form](https://docs.google.com/spreadsheets/d/11yHnttYRuMmB8kuYsPuWVKxJ2wTGB0WlBr33tAbMcZo/pubhtml)
