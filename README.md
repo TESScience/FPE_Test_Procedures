@@ -20,9 +20,11 @@ You can find google documents chronicling the Bring-Up and Functional testing of
 
 - iPython Notebooks
        - [FPE Interface Board Bring-up Procedure](https://github.com/TESScience/FPE_Test_Procedures/blob/master/FPE%20Interface%20Bring-Up%20Notebook.ipynb)
+       - [Heater Calibration Tests](https://github.com/TESScience/FPE_Test_Procedures/blob/master/Heater%20Calibration%20Tests.ipynb)
+       - [John Doty's Global Calibration of HK Data](https://github.com/TESScience/FPE_Test_Procedures/blob/master/John%20Doty's%20Global%20Calibration%20of%20the%20Housekeeping%20Data%20Collection.ipynb)
 
 - Documentation
-    - [ObsSim Software Description v1.5](https://github.com/TESScience/FPE_Test_Procedures/raw/master/Documentation/ObsSimUM1_5.pdf)
+    - [ObsSim Software Description v1.6](https://github.com/TESScience/Observatory_Simulator_MCS/blob/master/ObsSimUM1_6.pdf)
     - [FPE Specification Document](https://github.com/TESScience/FPE/raw/master/FPE/Documentation/FPE.pdf)
     - [CCD Screening and Test Report Form](https://docs.google.com/spreadsheets/d/1-ysKDKKj_qyiQhHkX8iTwmzbxIl74rTQ9_-PTp3I1qM/pubhtml)
     - [Hardware Activity Log Form](https://docs.google.com/spreadsheets/d/1F13pmJN5lLdmYBxVNSkqcVn-lQWhI8_q9wMNZl-ucBo/pubhtml)
