@@ -19,7 +19,7 @@ You can find repository or Google documents chronicling the Bring-Up and Functio
          -  [Video Board v6.1T serial number P02](https://docs.google.com/spreadsheets/d/1RayjGJEOZ38d7jx8WvxhKpaqJrlQ2zH7oOPJleOkZXk/pubhtml)
 
 - iPython Notebook-Based Test Procedures
-       - [FPE Interface Board Bring-up Procedure](https://github.com/TESScience/FPE_Test_Procedures/blob/master/FPE%20Interface%20Bring-Up%20Notebook.ipynb)
+       - [FPE Interface Board Bring-up Procedure](https://github.com/TESScience/FPE_Test_Procedures/blob/master/FPE%20Interface%20Bring-Up%20Procedure.ipynb)
        - [Heater Calibration Tests](https://github.com/TESScience/FPE_Test_Procedures/blob/master/Heater%20Calibration%20Tests.ipynb)
        - [John Doty's Global Calibration of HK Data](https://github.com/TESScience/FPE_Test_Procedures/blob/master/John%20Doty's%20Global%20Calibration%20of%20the%20Housekeeping%20Data%20Collection.ipynb)
        - [Evaluating Parameter Interdependence (Large File)](https://github.com/TESScience/FPE_Test_Procedures/blob/master/Evaluating%20Parameter%20Interdependence.ipynb)
